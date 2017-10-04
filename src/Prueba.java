@@ -41,7 +41,7 @@ public class Prueba {
 		//PropertyConfigurator.configure();
 		//System.out.println("INICIO");
 		//Configurator.initialize(null, );
-			logger.info("prueba");
+			logger.info("prueba222");
 		//ConfigurationSource source = new ConfigurationSource(new FileInputStream(logConfigurationFile));
 		
 		//Configurator.initialize(null, source);
